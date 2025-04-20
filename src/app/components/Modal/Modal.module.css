@@ -1,0 +1,52 @@
+.modal {
+    padding: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container_geral {
+    max-width: 500px;
+    width: 100%;
+    background-color: rgba(9, 9, 9, 0.67);
+    padding: 45px 20px;
+    border-radius: 22px;
+}
+
+.container_interno_one {
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.container_interno_one h1 {
+    font-size: 19.5px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.container_interno_one p {
+    font-size: 16px;
+    width: 200px;
+    text-align: center;
+}
+
+.logo_image {
+    width: 92px;
+    height: 92px;
+    border-radius: 100%;
+    background-color: white;
+    padding: 5px;
+}
+
+.container_interno_two {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
