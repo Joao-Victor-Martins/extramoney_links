@@ -35,7 +35,7 @@ export default function Modal({ titleModal, logoModal, urlLogoRedirect, textMens
                     nomeAtendente={"Curso sua Primeira Venda"}
                     />
                     <LinkContact 
-                    linkAtendente={"https://www.mediafire.com/file/76obuqg8n1fa6t2/Descomplicando-os-Investimentos.pdf/file"} 
+                    linkAtendente={"https://www.transfernow.net/dl/ExtraMoney-Ebook"} 
                     imageAtendente={Ebook} 
                     nomeAtendente={"Acessar E-Book Grátis"}
                     />
