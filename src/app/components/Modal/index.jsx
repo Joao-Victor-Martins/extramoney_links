@@ -35,7 +35,7 @@ export default function Modal({ titleModal, logoModal, urlLogoRedirect, textMens
                     nomeAtendente={"Curso sua Primeira Venda"}
                     />
                     <LinkContact 
-                    linkAtendente={"https://www.transfernow.net/dl/ExtraMoney-Ebook"} 
+                    linkAtendente={"https://drive.google.com/drive/folders/1MQ2sxDFmB-kQa9X7Mw4_ah8mQaB6zC8z?usp=sharing"} 
                     imageAtendente={Ebook} 
                     nomeAtendente={"Acessar E-Book Grátis"}
                     />
